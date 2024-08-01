@@ -17,10 +17,10 @@
 ## Screenshots of the Interface and Results
 
 ### Screenshots for the part 1
-- ![1](Screenshots/image1.png)
-- ![2](Screenshots/image2.png)
+![1](Screenshots/image1.png)
+![2](Screenshots/image2.png)
 
 ### Screenshots for the part 2
-- ![1](Screenshots/image3.png)
-- ![1](Screenshots/image4.png)
+![1](Screenshots/image3.png)
+![1](Screenshots/image4.png)
 
